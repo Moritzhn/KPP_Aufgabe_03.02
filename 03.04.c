@@ -8,13 +8,13 @@ int main(){
   scanf("%f", &b);
   
   if(a>b){
-    printf("Die erste Zahl ist größer");
+    printf("Die erste Zahl ist größer \n");
   }
   else if(a<b){
-    printf("Die zweite Zahl ist größer");
+    printf("Die zweite Zahl ist größer \n");
   }
   else if(a=b){
-    printf("Die Zahlen sind gleich groß");
+    printf("Die Zahlen sind gleich groß \n");
   }
 return 0;
 }
