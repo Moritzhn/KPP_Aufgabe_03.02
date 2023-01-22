@@ -10,11 +10,11 @@ int main(){
   if(a>b){
     printf("Die erste Zahl ist größer");
   }
+  else if(a<b){
+    printf("Die zweite Zahl ist größer");
+  }
   else if(a=b){
     printf("Die Zahlen sind gleich groß");
-  }
-  else{
-    printf("Die zweite Zahl ist größer");
   }
 return 0;
 }
