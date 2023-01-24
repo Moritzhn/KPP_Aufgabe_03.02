@@ -4,7 +4,7 @@ int main(){
   float a,b;
   printf("Geben sie die erste Zahl ein:");
   scanf("%f", &a);
-  printf("Geben sie die zweite Zahl ein:");
+  printf("Geben sie die zweite Zahl ein oder sind die dumm?:");
   scanf("%f", &b);
   
   if(a>b){
